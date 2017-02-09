@@ -15,10 +15,7 @@ bars = ( [], [], [] )
 moves = 0
 
 """
-    
-    Este sencillo algoritmo recurrente resuelve el problema de las torres de Hanoi.
-    hola
-
+    Este sencillo algoritmo recurrente resuelve el problema de las torres de Hanoi. 
 """
 
 def show():
